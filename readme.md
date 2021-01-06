@@ -12,5 +12,5 @@ Basic Python knowledge
 
 
 ### Certificate
-![alt text](NUS DSBE001x Certificate _ edX.jpg)
+![alt text](NUS DSBE001x Certificate _ edX.pdf)
 
